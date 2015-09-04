@@ -1,0 +1,91 @@
+body {
+    padding-top: 50px;
+}
+h1 {
+    font-size: 27px;
+}
+h2 {
+    font-size: 27px;
+    text-align: left;
+}
+h2.big {
+    font-size: 40px;
+    text-align: left;
+}
+.vhr {
+    border-right: 1px solid #ccc;
+}
+.br {
+    display: block;
+    margin-top: 10px;
+}
+.content {
+    padding: 40px 15px;
+    text-align: center;
+}
+.content form {
+    text-align: left;
+}
+.well {
+    margin-top: 20px;
+}
+.well p {
+    text-align: left;
+    font-size: 17px;
+}
+.well .warning {
+    font-weight: bold;
+    color: #e70000;
+}
+.well hr {
+    border-color: #ADADAD;
+}
+img.logo {
+    max-height: 100px;
+    margin: 10px;
+}
+img.example {
+    cursor: pointer;
+    margin: 10px;
+}
+.diagram {
+    display: block;
+    margin: 20px;
+    text-align: center;
+}
+.bold {
+    font-weight: bold;
+}
+.small {
+    font-size: 10px;
+}
+.right {
+    display:block;
+    text-align: right;
+}
+#moreForm {
+    display: none;
+}
+#permalink {
+    display: none;
+    text-align: right;
+    float: right;
+}
+#permalink input {
+    width: 200px;
+    display: inline-block;
+}
+#formButton {
+    float: left;
+    display: inline-block;
+}
+.alert {
+    margin-top: 30px;
+}
+.clearfix {
+    clear: both;
+}
+.checkbox label{
+    font-size: 12px;
+    font-weight: bold;
+}
